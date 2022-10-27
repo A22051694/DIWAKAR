@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diwence
+- 👋 Hi, I’m @Diwakar
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Python
 
